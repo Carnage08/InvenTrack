@@ -31,7 +31,7 @@ export const DashboardHeader = ({
             </div>
             <div>
               <h1 className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-                SmartStock
+                InvenTrack
               </h1>
               <p className="text-xs text-muted-foreground">Inventory Intelligence</p>
             </div>
